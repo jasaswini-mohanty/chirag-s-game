@@ -1,4 +1,4 @@
-var p5Inst = new p5(null, 'sketch');
+/*var p5Inst = new p5(null, 'sketch');
 
 window.preload = function () {
   initMobileControls(p5Inst);
@@ -32,6 +32,7 @@ window.preload = function () {
         return;
       }
     }
+    */
 // -----
 
 var gameState="wait";
