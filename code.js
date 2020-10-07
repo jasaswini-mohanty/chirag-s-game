@@ -203,7 +203,7 @@ function spawngarage(){
 
 
 // -----
-    try { window.draw = draw; } catch (e) {}
+   /* try { window.draw = draw; } catch (e) {}
     switch (stage) {
       case 'preload':
         if (preload !== window.preload) { preload(); }
@@ -219,4 +219,4 @@ function spawngarage(){
 
 window.setup = function () {
   window.wrappedExportedCode('setup');
-};
+};*/
